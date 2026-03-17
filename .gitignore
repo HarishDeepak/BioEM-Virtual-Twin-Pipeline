@@ -1,0 +1,5 @@
+*.cstresults
+*.log
+*.paks
+__pycache__/
+.vscode/

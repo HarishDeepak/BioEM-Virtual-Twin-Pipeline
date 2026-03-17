@@ -49,3 +49,5 @@ Ensure you have Python installed along with the required scientific computing li
 
 ```bash
 pip install numpy scipy scikit-image trimesh nibabel
+
+![alt text](image.png)

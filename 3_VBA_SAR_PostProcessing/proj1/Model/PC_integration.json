@@ -1,0 +1,15 @@
+{
+   "execution": {
+      "classname": "SMAPowerByEmagHPCFrame",
+      "libname": "SMAPowerByEmagUI"
+   },
+   "inputVariables": [],
+   "outputVariables": [
+      {
+         "len": 1,
+         "name": "3D\\ASCII Export",
+         "type": "float",
+         "value": 0.0
+      }
+   ]
+}

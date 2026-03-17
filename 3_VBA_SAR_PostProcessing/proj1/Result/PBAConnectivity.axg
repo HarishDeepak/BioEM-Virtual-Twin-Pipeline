@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CSTAuxiliaryGeometry version="20170928">
+  <Objects>
+    <Object name="Components\component1:Brain_Phantom" id="1"/>
+  </Objects>
+  <Materials/>
+  <Groups>
+    <Group name="Isolators" ID="1">
+      <Item name="Components\component1:Brain_Phantom" id="1"/>
+    </Group>
+  </Groups>
+</CSTAuxiliaryGeometry>
